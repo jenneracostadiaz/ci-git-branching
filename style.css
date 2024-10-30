@@ -42,3 +42,8 @@ ul {
 li {
     margin: 0.5rem 0;
 }
+
+.logo {
+    width: 10rem;
+    margin: auto;
+}
