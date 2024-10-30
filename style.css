@@ -3,7 +3,7 @@
     src:
       local("Roboto"),
       url("./fonts/Roboto-Black.ttf") format("opentype") tech(color-COLRv1)
-  }
+}
 body {
     font-family: Roboto, sans-serif;
     margin: 0;
