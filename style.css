@@ -33,3 +33,11 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 0.5rem 0;
+}
